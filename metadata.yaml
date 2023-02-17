@@ -1,0 +1,26 @@
+_repo: Through-lands-that-were-dark_69906
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hawkins, F. H.
+    gutenberg_agent_id: '55487'
+    url: http://www.gutenberg.org/2009/agents/55487
+description: ''
+gutenberg_issued: '2023-01-29'
+identifiers:
+  gutenberg: '69906'
+language: en
+pgterms:marc904: https://archive.org/details/throughlandsthat00hawkiala
+pgterms:marc905: 20200915123748hawkins
+pgterms:marc906: '1914'
+pgterms:marc907: gb
+production_note: Peter Becker and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: 'United Kingdom: London Missionary Society,1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Through lands that were dark
+url: http://www.gutenberg.org/ebooks/69906
