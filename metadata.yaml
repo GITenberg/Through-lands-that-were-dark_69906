@@ -1,11 +1,16 @@
 _repo: Through-lands-that-were-dark_69906
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69906-h/images/cover.jpg
 creator:
   author:
     agent_name: Hawkins, F. H.
     gutenberg_agent_id: '55487'
     url: http://www.gutenberg.org/2009/agents/55487
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69906#Through-lands-that-were-dark
 gutenberg_issued: '2023-01-29'
 identifiers:
   gutenberg: '69906'
